@@ -68,6 +68,8 @@ module.exports = {
       options: {
         // basePath defaults to `/`
         basePath: `/`,
+        name: `Vicki Tiller's Portfolio`,
+        short_name: `Vicki`,
       },
     },
   ],
