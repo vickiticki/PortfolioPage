@@ -62,6 +62,10 @@
 
 // gatsby-config.js
 module.exports = {
+  siteMetadata: {
+    siteTitle: `Vicki`,
+    siteTitleAlt: `Vicki Tiller's Porfolio`,
+  },
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
